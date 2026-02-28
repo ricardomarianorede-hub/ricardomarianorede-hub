@@ -8,8 +8,9 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0182--0021-green)](https://orcid.org/0009-0005-0182-0021)
 
 ---
+## 📄 Documento Institucional Oficial
 
-## Trabalhos recentes
+[Prof. Ricardo Mariano – Documento Institucional](./Prof_Ricardo_Mariano_Documento_Institucional.pdf)
 
 - **A GRANDE FARSA DO CONTROLE: QUEM REALMENTE MANDA NA INTELIGÊNCIA ARTIFICIAL**  
   Produção autoral independente  
